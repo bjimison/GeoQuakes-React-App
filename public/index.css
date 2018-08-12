@@ -15,7 +15,11 @@ body {
   padding-left: 2em;
 }
 
+#liveMap {
+  height: 10px;
+}
+
 .quakeContainer {
   padding-top: 2em;
-  padding-left: 2em;
+  padding-right: 2em;
 }

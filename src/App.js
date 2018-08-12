@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import EarthquakeContainer from "./components/EarthquakeContainer";
 import MapContainer from "./components/MapContainer";
 import EarthquakeModel from "./models/Earthquakes";
+import "./index.css";
 
 class App extends Component {
   state = {
